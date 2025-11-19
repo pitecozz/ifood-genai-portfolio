@@ -1,4 +1,4 @@
-# Core Data/ML
+# Core LLM/ML
 pandas==2.2.0
 numpy==1.26.0
 datasets==2.18.0
@@ -6,11 +6,12 @@ torch==2.2.0
 transformers==4.39.0
 requests==2.31.0
 
-# Agentes LLM/Orquestração
-langchain==0.1.0
+# LLM Agents / Orquestração
+# VERSÃO CORRIGIDA: Atualize para 0.1.10 ou mais recente (ex: 0.1.16)
+langchain==0.1.16 
 crewai==0.30.0
 llama-cpp-python
 
-# MLOps/Deploy
+# Deploy
 streamlit
 plotly
