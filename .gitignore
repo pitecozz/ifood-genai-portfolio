@@ -1,0 +1,12 @@
+# Ambientes Virtuais (CRUCIAL)
+venv/
+env/
+*.pyc
+__pycache__
+
+# MLOps / Modelos Grandes / Logs
+*.log
+*.sqlite
+/data/raw
+/data/processed
+/src/models/llama-3-8b/
