@@ -1,0 +1,18 @@
+# Core LLM/ML
+torch
+transformers
+datasets
+pandas
+numpy
+
+# LLM Agents / Orquestração
+langchain
+crewai
+llama-cpp-python  # Para rodar modelos GGUF no Colab
+
+# Deploy
+streamlit
+plotly # Para visualização de logs/dados
+
+# Infra/MLOps (opcional, mas bom ter)
+docker
